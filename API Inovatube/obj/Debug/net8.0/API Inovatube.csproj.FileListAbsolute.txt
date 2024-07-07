@@ -1,0 +1,40 @@
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\appsettings.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\API Inovatube.exe
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\API Inovatube.deps.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\API Inovatube.runtimeconfig.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\API Inovatube.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\API Inovatube.pdb
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Google.Apis.YouTube.v3.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\System.Management.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.csproj.AssemblyReference.cache
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.AssemblyInfoInputs.cache
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.AssemblyInfo.cs
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.csproj.CoreCompileInputs.cache
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets\msbuild.API Inovatube.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets\msbuild.build.API Inovatube.props
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API Inovatube.props
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API Inovatube.props
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\scopedcss\bundle\API Inovatube.styles.css
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inov.A0D480F3.Up2Date
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\refint\API Inovatube.dll
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.pdb
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\API Inovatube.genruntimeconfig.cache
+C:\Users\IROXIT067\source\repos\API Inovatube\API Inovatube\obj\Debug\net8.0\ref\API Inovatube.dll

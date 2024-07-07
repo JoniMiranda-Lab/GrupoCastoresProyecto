@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldFyKlnwv/4ovdSBZNyFjyDpg3b9GM9pgPnnQS/Sdq6ZGgGv5tr2N2lRdZnwOnoUUFzMHQp8/6p3/jZe7ek+QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IROXIT067\\source\\repos\\API Inovatube\\API Inovatube\\API Inovatube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\google.apis.youtube.v3\\1.68.0.3421\\google.apis.youtube.v3.1.68.0.3421.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\IROXIT067\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
